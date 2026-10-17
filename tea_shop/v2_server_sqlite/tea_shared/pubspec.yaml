@@ -1,0 +1,13 @@
+name: tea_shared
+description: Shared domain models for the tea shop POS client and server.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
